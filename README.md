@@ -194,7 +194,7 @@ Product-wise purchase quantity trends
 Order status breakdown (38.76% completed)
 
 
-https://github.com/user-attachments/assets/25a5ed0d-2451-4b23-be25-f3109cb75a4e
+![Image](https://github.com/user-attachments/assets/26a9d917-3a40-49ad-aad1-0bfe1070869f)
 
 
 
