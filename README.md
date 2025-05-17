@@ -97,11 +97,11 @@ Net Flow = [Quantity Inflow] - [Quantity Outflow]
 
 
 1. Inventory Dashboard
-Key Metrics: Shows 2.4K-6.9K stock levels across product categories (Beauty, Beverages, Fashion, etc.)
+Key Metrics: Shows 2.4 K- 6.9 K stock levels across product categories (Beauty, Beverages, Fashion, etc.)
 
 Strengths:
 
-Tracks quantity inflow/outflow by year and month
+Tracks the quantity of inflow/outflow by year and month
 
 Visualizes stock level trends over time
 
@@ -116,7 +116,7 @@ Improvement Opportunity: Could better highlight products below safety stock leve
 
                   Dax functions -- Suppliers
 Avg Lead Time (Days) = AVERAGE(Purchase_Order[Delivery Date] - Purchase_Order[Order Date])
-On-Time Delivery % = 
+On-Time Delivery% = 
 DIVIDE(
     COUNTROWS(FILTER(Purchase_Order, Purchase_Order[Delivery Date] <= Purchase_Order[Expected Delivery Date])),
     COUNTROWS(Purchase_Order),
@@ -149,7 +149,7 @@ Delivery delays tracked by supplier (Elliott and Sons, Lutz and Sons)
 
 Notable Feature: Includes regional breakdown (Ashanti, Eastern, Greater Accra regions)
 
-https://github.com/user-attachments/assets/7cc9aaf5-9b09-4586-a56c-1d3c61083cb0
+![Image](https://github.com/user-attachments/assets/56c0b961-5bc8-4cbf-875b-dbaeea5455b6)
 
 
 
