@@ -226,7 +226,7 @@ Sales fulfillment (only 1% orders fulfilled) while...
 
 Procurement costs remain high (GH₵11M total)
 
-https://github.com/user-attachments/assets/d0e467d5-3732-4ee6-90a2-17d3584500f1
+![Image](https://github.com/user-attachments/assets/615af558-f4a7-4ba1-b9f7-3d63d98a0e03)
 
 
 Recommendations
