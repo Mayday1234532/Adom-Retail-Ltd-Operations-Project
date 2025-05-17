@@ -109,7 +109,7 @@ Includes price trends (GH₵900-10,000 range shown)
 
 Improvement Opportunity: Could better highlight products below safety stock levels
 
-https://github.com/user-attachments/assets/8a6cc4a5-1ea2-41ea-bd68-3ba8f9734e9d
+![Image](https://github.com/user-attachments/assets/229faec7-7856-4588-a6b8-a91f9764c521)
 
 
 
